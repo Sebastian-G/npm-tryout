@@ -1,0 +1,11 @@
+{
+  "name": "@n33d/npm-tryout",
+  "version": "0.1.0",
+  "description": "only for testing issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "N33D",
+  "license": "ISC"
+}
